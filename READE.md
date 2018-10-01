@@ -1,1 +1,1 @@
-# sedthawut
+# Sedthawut Kampimpid
