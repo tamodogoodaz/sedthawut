@@ -6,7 +6,8 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
 </head>
-<body>
+<body bgcolor="#000000">
+	<h1>Hello world!</h1>
     <div class="container">
         <h1>Connect</h1>
     </div>
